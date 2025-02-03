@@ -3,7 +3,7 @@
  * @module src/app
  * @author Johan Leitet <johan.leitet@lnu.se>
  * @author Mats Loock <mats.loock@lnu.se>
- * @author Saskia Heinemann <sh224wg@student.lnu.se>
+ * @author Eva Heinemann <sh224wg@student.lnu.se>
  * @version 2.0.0
  */
 
