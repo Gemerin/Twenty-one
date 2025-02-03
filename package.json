@@ -1,7 +1,7 @@
 {
-  "name": "assignment-a3-twenty-one",
+  "name": "twenty-one",
   "version": "2.0.3",
-  "description": "1DV025 - Assignment A3 - Twenty One",
+  "description": " Twenty One",
   "type": "module",
   "main": "src/app.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "contributors": [
     "Johan Leitet <johan.leitet@lnu.se>",
     "Mats Loock <mats.loock@lnu.se>",
-    "Saskia Heinemann <sh224wg@student.lnu.se>"
+    "Eva Heinemann <sh224wg@student.lnu.se>"
   ],
   "license": "MIT",
   "private": true,
