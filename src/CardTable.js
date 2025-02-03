@@ -1,7 +1,7 @@
 /**
  * @file Module for the class Deck.
  * @module src/CardTable
- * @author Saskia Heinemann <sh224wg@student.lnu.se>
+ * @author Eva Heinemann <sh224wg@student.lnu.se>
  * @version 2.0.0
  */
 
